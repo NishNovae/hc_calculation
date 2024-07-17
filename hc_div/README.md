@@ -17,7 +17,7 @@ $ pip install simpleCalc_cmd
 For more information, refer [simpleCalc_cmd github](https://github.com/hamsunwoo/simpleCalc_cmd)
 
 ## What does it do?
-This package holds a simple function `div` which take 2 integer in-line variables and calculates the corresponding integer division operation.
+This package holds a simple function `div` which take 2 integer in-line variables and calculates the corresponding integer division operation. Handles errors if in-line variables are in the wrong format or number.
 
 Specifically, it calculates division in `QUOTIENT remainder REMAINDER` format, where `QUOTIENT` and `REMAINDER` are corresponding calculated values.
 

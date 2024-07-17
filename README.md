@@ -19,7 +19,7 @@ $ pip install simpleCalc_cmd
 For more information, refer [simpleCalc_cmd github](https://github.com/hamsunwoo/simpleCalc_cmd)
 
 ## What does it do?
-All of these modules have simple functions which take 2 integer in-line variables and calculates the corresponding operation: addition for `hc_add`, multiplication for `hc_mul`, and integer division for `hc_div`.
+All of these modules have simple functions which take 2 integer in-line variables and calculates the corresponding operation: addition for `hc_add`, multiplication for `hc_mul`, and integer division for `hc_div`. It also does error handling for inaccurate number or formats of in-line arguments.
 
 In particular, for `hc_div` the division result is formatted into the form of `QUOTIENT remainder REMAINDER` where `QUOTIENT` and `REMAINDER` are corresponding calculated values.
 
