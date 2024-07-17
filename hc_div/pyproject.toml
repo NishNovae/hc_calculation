@@ -1,6 +1,6 @@
 [project]
 name = "hc_div"
-version = "0.1.0"
+version = "0.1.2"
 description = "Default template for PDM package"
 authors = [
     {name = "NishNovae", email = "raecrowned@gmail.com"},
@@ -15,3 +15,7 @@ license = {text = "MIT"}
 
 [tool.pdm]
 distribution = true
+
+[project.urls]
+Homepage = "https://github.com/NishNovae/hc_calculation"
+Issues = "https://github.com/NishNovae/hc_calculation/issues"

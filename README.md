@@ -21,7 +21,7 @@ For more information, refer [simpleCalc_cmd github](https://github.com/hamsunwoo
 ## What does it do?
 All of these modules have simple functions which take 2 integer in-line variables and calculates the corresponding operation: addition for `hc_add`, multiplication for `hc_mul`, and integer division for `hc_div`.
 
-In particular, for `hc_div` the division result is formatted into the form of `QUOTIENT remainder REMAINDER`.
+In particular, for `hc_div` the division result is formatted into the form of `QUOTIENT remainder REMAINDER` where `QUOTIENT` and `REMAINDER` are corresponding calculated values.
 
 For additional usages, look at `simpleCalc_cmd` github or read below.
 
